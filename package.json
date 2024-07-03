@@ -1,0 +1,16 @@
+{
+  "name": "be.tombandiera.gamepadinputs",
+  "version": "0.0.1",
+  "displayName": "GamepadInputs",
+  "description": "Manage gamepad inputs",
+  "unity": "2019.1",
+  "author": {
+    "name": "Tom Bandiera",
+    "email": "tom.bandier@gmail.com"
+  },
+  "keywords": [
+    "unity",
+    "gamepad",
+    "inputs"
+  ]
+}

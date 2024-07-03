@@ -1,0 +1,114 @@
+{
+    "name": "Gamepad",
+    "maps": [
+        {
+            "name": "Gamepad",
+            "id": "47cf0db4-acf1-44aa-9a20-cf96eb26ed0c",
+            "actions": [
+                {
+                    "name": "Left Stick / X",
+                    "type": "Value",
+                    "id": "534b952c-b0a6-44a5-bcb0-7021553d4c5c",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left Stick / Y",
+                    "type": "Value",
+                    "id": "133b0b1f-f305-4c65-9597-4d1da2e7e4f3",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Right Stick / Y",
+                    "type": "Value",
+                    "id": "53af5f48-2d1c-4923-b5f6-9e47af6f67e5",
+                    "expectedControlType": "Axis",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Right Trigger",
+                    "type": "Value",
+                    "id": "ef228ea4-90e0-47d7-a04b-10bda77cafc3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left Trigger",
+                    "type": "Value",
+                    "id": "cc7ed39c-2be4-4299-9262-43937fe66881",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "b7f06647-05ec-4c10-94b6-1dbf68569233",
+                    "path": "<Gamepad>/leftStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left Stick / X",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ae20ef6d-14cd-4254-b169-d491f1a634d5",
+                    "path": "<Gamepad>/rightStick/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right Stick / Y",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "5f8debac-2717-43b1-8f69-73d23ee4da79",
+                    "path": "<Gamepad>/rightTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right Trigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "86e1df64-efb6-480e-962a-f74dee7d2063",
+                    "path": "<Gamepad>/leftTrigger",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left Trigger",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f34f9b10-d767-436d-86ad-387ca4b65383",
+                    "path": "<Gamepad>/leftStick/y",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left Stick / Y",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
